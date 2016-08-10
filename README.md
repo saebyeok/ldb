@@ -1,6 +1,6 @@
 # LDB 
 
-More easily and simply use to [leveldb](http://leveldb.org)
+More easily and simply to use [leveldb](http://leveldb.org)
 
 ## Installation
 
